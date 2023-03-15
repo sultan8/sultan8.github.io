@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.su.se/centre-for-research-on-bilingualism/about-the-centre'>Affiliations</a>. Ontology shapes behaviour. 
+subtitle: <a href='https://www.su.se/centre-for-research-on-bilingualism/about-the-centre'>Affiliations</a>. <span style="font-weight:200;font-size:12px">Ontology shapes behaviour.</span>
 
 profile:
   align: right
