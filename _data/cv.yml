@@ -80,17 +80,29 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Skills summary
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Research and analytical skills
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Behavioural research – conducting web-based experiments through platforms such as Mechanical Turk and Prolific
+        - Generalised linear models (GLM) for data analysis
+        - Bayesian rational models for predicting categorisation
+        - R (dplyr, purrr, statistical modelling packages e.g. lme4 and brms)
+        - Data visualisation with ggplot2 and plotly
+        - Python
+        - Git and version control
+        - CLI in Unix/Linux environments for cluster computing
+        - Writin reports and presenting results
+    - title: Soft skills
       items:
-        - Description 1.
-        - Description 2.
+        - Mentoring junior staff/students
+        - Managing collaborative projects across time zones, borders, and cultures
+        - Forging collaborative partnerships and networks
+        - Writing grant applications
+        - Communicating concepts and ideas in various formats to a lay audience
+        - General problem-solving and trouble-shooting skills
+        - Autodidactic abilities
 
 - title: Other Interests
   type: list
