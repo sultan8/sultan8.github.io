@@ -1,6 +1,7 @@
 ---
 layout: page
 title: project 4
+nav: false
 description: another without an image
 img:
 importance: 3
