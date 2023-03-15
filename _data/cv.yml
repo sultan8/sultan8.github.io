@@ -15,18 +15,19 @@
       institution: Stockholms Universitet, Sweden
       year: 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Adaptation to variability in speech
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+          - Analysing native listeners' adaptation to non-native speech with rational ideal observer models
+          - Investigating incremental changes in listener perception as they receive informative input from an unfamiliar talker
+    - title: MA Linguistics
+      institution: Bangor University, Wales
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Syntactic processing of relative clauses by L2 learners of English
+   - title: BSc Economics
+      institution: University of London
+      year: 1999
+
 
 - title: Experience
   type: time_table
@@ -61,14 +62,14 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Open Source Projects
+ # type: time_table
+ # contents:
+ #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+ #     year: 2015-now
+ #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Grants and Awards
   type: time_table
   contents:
     - year: 1921
