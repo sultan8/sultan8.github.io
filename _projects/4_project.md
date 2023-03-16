@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
+title: 3D Gaussians
 nav: false
-description: another without an image
+description: 3D plots with plotly
 img:
 importance: 1
 category: work
