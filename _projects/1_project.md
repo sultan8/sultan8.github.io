@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 1
-nav: false
+nav: true
 description: a project with a background image
 img: assets/img/12.jpg
-importance: 1
+importance: 0
 category: work
 ---
 

@@ -54,27 +54,23 @@
 
 - title: Non-academic experience
   type: time_table
-
   contents:
     - title: Researcher and Technology reporter
       institution: Global Water Intelligence (Oxford, UK)
       year: 2015 - 2017
       description:
-        - Produced country reports on water infrastructure demand and investments in both
-industrial and consumer markets for Southeast Asia.
-        - Research and report on state-of-the-art technology in water treatment and purification for
-industrial needs.
+        - Produced country reports on water infrastructure demand and investments in both industrial and consumer markets for Southeast Asia.
+        - Research and report on state-of-the-art technology in water treatment and purification for industrial needs.
         - Assisted with business development to increase participation in and promote GWI regional conferences.
-
     - title: Freelance financial journalist & public relations
-      institution: Self - employed
+      institution: Self-employed
       year: 2009 - 2014
       description:
         - Contributing writer to various financial publications (e.g. FT Adviser, Islamic Banking & Finance, ACCA)
         - Media and public relations strategy and consulting (Commas & Industry)
 
     - title: Financial Writer
-      institution: VRL Publishing (London).
+      institution: VRL Publishing (London)
       year: 2008 - 2009
       description:
         - Reporting on capital asset leasing
@@ -86,10 +82,6 @@ industrial needs.
       description:
         - Reporting on economic developments, stock market analysis and corporate finance
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
 
 
 #- title: Open Source Projects
@@ -119,10 +111,3 @@ industrial needs.
         - Helge Ax:Jonsson Stiftelsen
         - Jubileumsdonationen K&A Wallenberg stiftelse travel grant
 
-
-
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
