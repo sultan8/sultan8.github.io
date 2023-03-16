@@ -41,49 +41,56 @@
         - Python
         - Git and version control
         - CLI in Unix/Linux environments for cluster computing
-        - Writin reports and presenting results
+        - Writing reports and presenting results
     - title: Soft skills
       items:
         - Mentoring junior staff/students
         - Managing collaborative projects across time zones, borders, and cultures
         - Forging collaborative partnerships and networks
-        - Writing grant applications
         - Communicating concepts and ideas in various formats to a lay audience
+        - Writing grant applications
         - General problem-solving and trouble-shooting skills
         - Autodidactic abilities
 
-- title: Experience
+- title: Non-academic experience
   type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+  contents:
+    - title: Researcher and Technology reporter
+      institution: Global Water Intelligence (Oxford, UK)
+      year: 2015 - 2017
+      description:
+        - Produced country reports on water infrastructure demand and investments in both
+industrial and consumer markets for Southeast Asia.
+        - Research and report on state-of-the-art technology in water treatment and purification for
+industrial needs.
+        - Assisted with business development to increase participation in and promote GWI regional conferences.
+
+    - title: Freelance financial journalist & public relations
+      institution: Self - employed
+      year: 2009 - 2014
+      description:
+        - Contributing writer to various financial publications (e.g. FT Adviser, Islamic Banking & Finance, ACCA)
+        - Media and public relations strategy and consulting (Commas & Industry)
+
+    - title: Financial Writer
+      institution: VRL Publishing (London).
+      year: 2008 - 2009
+      description:
+        - Reporting on capital asset leasing
+        - Acting editor (May 2007 issue)
+
+    - title: Senior Writer, Capital Markets & Companies
+      institution: The Edge Business Weekly (Kuala Lumpur, Malaysia).
+      year: 2000 - 2007
+      description:
+        - Reporting on economic developments, stock market analysis and corporate finance
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 #- title: Open Source Projects
  # type: time_table
@@ -92,16 +99,26 @@
  #     year: 2015-now
  #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Grants and Awards
+- title: Grants
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Kungliga Vitterhetsakadamien
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Anerstiftelsen scholarship
+        - Callemansstiftelsen grant
+
+    - year: 2019
+      items: 
+        - Helge Ax:Jonsson Stiftelsen
+
+    - year: 2018
+      items: 
+        - Helge Ax:Jonsson Stiftelsen
+        - Jubileumsdonationen K&A Wallenberg stiftelse travel grant
+
 
 
 
