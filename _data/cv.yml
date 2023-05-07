@@ -3,17 +3,17 @@
   contents:
     - name: Full Name
       value: Maryann Su Lin Tan
-    - name: Date of Birth
-      value: 29th November 1976
+    - name: Location
+      value: Stockholm, Sweden
     - name: Languages
       value: English, Malay, Swedish, Cantonese, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD candidate
+    - title: PhD in Bilingualism
       institution: Stockholms Universitet, Sweden
-      year: 2017
+      year: 2017 - 2024
       description:
         - title: Adaptation to variability in speech
           contents:
