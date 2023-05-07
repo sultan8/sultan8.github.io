@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications and conference proceedings.
-years: [2022, 2021]
+description: Publications, posters and presentations.
+years: [2022, 2021, 2023]
 nav: true
 nav_order: 1
 ---
