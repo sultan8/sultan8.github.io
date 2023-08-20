@@ -22,8 +22,10 @@ To give your project a background in the portfolio page, just add the img tag to
     [mike's notes]: this is where you need to change the file. this is located in **/_projects/4_project.md**
     ---
 
-
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~sultan8/3.embed"></iframe>
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plotly.com/~sultan8/3.embed" frameborder="
+0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
+</div>
 
 
 
