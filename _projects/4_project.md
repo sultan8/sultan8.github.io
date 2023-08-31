@@ -1,40 +1,25 @@
 ---
 layout: page
-title: Visualising acoustic cues as 3D gaussians
+title: Visualising acoustic cues 
 nav: false
-description: 3D plots with plotly
+description: 3D Gaussians with plotly
 img:
 importance: 1
 category: work
 ---
 
-Second language speakers of a language produce sound segments differently from native speakers. This doesn't necessarily pose a challenge to the untrained native listener unless the speaker produces the words that do not fall within native listener expectations. One way to illustrate how an accent might be challenging to what native listeners expect is to visualise the differences. 
+In one of my research projects, I <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676271/full#:~:text=Using%20Rational%20Models%20to%20Interpret%20the%20Results%20of%20Experiments%20on%20Accent%20Adaptation,-Maryann%20Tan1&text=Exposure%20to%20unfamiliar%20non%2Dnative,of%20the%20talker's%20phonetic%20cues.">analysed the outcomes of two accent adaptation experiments conducted in English and Swedish</a>. The two studies employed the same paradigm but produced opposing effects. To work out whether source of the difference was due to hypothesis testing errors or low 
+Second language speakers of a language produce sound segments differently from native speakers. This doesn't necessarily pose a challenge to the untrained native listener unless the words are produced in an acoustic space that don't fall within native listener expectations. One way to illustrate how an accent might be challenging to what native listeners expect is to visualise the differences. 
 
 In this project we compared the production of stop consonants ("d" and "t) in word-final contexts (e.g. bat and bad) of native and non-native speakers.
 
-<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+<div style="padding-bottom:76.25%; position:relative; display:block; width: 100%">
 <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/plotly/3d_en.html" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
 </div>
 
 
 
-<div class="row">
-   
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    **[this can be completely removed]** Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
@@ -44,17 +29,7 @@ Say you wanted to write a little bit about your project before you posted the re
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
 
 
 The code is simple.
