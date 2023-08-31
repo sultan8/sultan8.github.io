@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3D Gaussians - to be edited
+title: Visualising acoustic cues as 3D gaussians
 nav: false
 description: 3D plots with plotly
 img:
@@ -8,23 +8,12 @@ importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Second language speakers of a language produce sound segments differently from native speakers. This doesn't necessarily pose a challenge to the untrained native listener unless the speaker produces the words that do not fall within native listener expectations. One way to illustrate how an accent might be challenging to what native listeners expect is to visualise the differences. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page this needs to be edited and changed
-    title: project
-    description: a project with a background image.
-    img: /assets/img/12.jpg
-    [mike's notes]: this is where you need to change the file. this is located in **/_projects/4_project.md**
-    ---
+In this project we compared the production of stop consonants ("d" and "t) in word-final contexts (e.g. bat and bad) of native and non-native speakers.
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plotly.com/~sultan8/3.embed" frameborder="
-0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/plotly/3d_en.html" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
 </div>
 
 
