@@ -13,7 +13,7 @@ In one of my research projects, I <a href="https://www.frontiersin.org/articles/
 To understand such models one presupposes:
 <ul>
     <li>the listener perceives the segments of speech that make up a word (e.g. bed is made up 3 categories of sounds, b-e-d)</li>
-    <li>the listener is sensitive to the acoustic cues that make up the sounds.</li>
+    <li>the listener is sensitive to the acoustic correlates that signal the presence of the sound and distinguish it from other sounds.</li>
     <li>more than one acoustic cue measurement can be mapped to the same sound category.</li>
     <li>the researcher knows which cues matter the most for identifying a given sound category.</li>
 </ul>    
