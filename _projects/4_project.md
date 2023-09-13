@@ -8,44 +8,47 @@ importance: 1
 category: work
 ---
 
-In one of my research projects, I <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676271/full#:~:text=Using%20Rational%20Models%20to%20Interpret%20the%20Results%20of%20Experiments%20on%20Accent%20Adaptation,-Maryann%20Tan1&text=Exposure%20to%20unfamiliar%20non%2Dnative,of%20the%20talker's%20phonetic%20cues.">analysed the outcomes of two accent adaptation experiments conducted in English and Swedish</a>. The two studies employed the same paradigm but produced opposing effects. To work out whether source of the difference was due to hypothesis testing errors or low 
-Second language speakers of a language produce sound segments differently from native speakers. This doesn't necessarily pose a challenge to the untrained native listener unless the words are produced in an acoustic space that don't fall within native listener expectations. One way to illustrate how an accent might be challenging to what native listeners expect is to visualise the differences. 
+In one of my research projects, I <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.676271/full#:~:text=Using%20Rational%20Models%20to%20Interpret%20the%20Results%20of%20Experiments%20on%20Accent%20Adaptation,-Maryann%20Tan1&text=Exposure%20to%20unfamiliar%20non%2Dnative,of%20the%20talker's%20phonetic%20cues.">analysed the outcomes of two accent adaptation experiments conducted in English and Swedish</a>. The two studies employed the same paradigm which produced contradicting results - one had a positive effect of exposure and the other showed a null effect. After ruling out type 1 or 2 errors and low statistical power we constructed ideal observers to determine if both results would have been predicted by models of speech perception that posit distributional learning when listeners adapt to unfamiliar talkers. 
 
-In this project we compared the production of stop consonants ("d" and "t) in word-final contexts (e.g. bat and bad) of native and non-native speakers.
+To understand such models one presupposes:
+<ul>
+    <li>the listener perceives the segments of speech that make up a word (e.g. bed is made up 3 categories of sounds, b-e-d)</li>
+    <li>the listener is sensitive to the acoustic cues that make up the sounds.</li>
+    <li>more than one acoustic cue measurement can be mapped to the same sound category.</li>
+    <li>the researcher knows which cues matter the most for identifying a given sound category.</li>
+</ul>    
+
+In distributional learning the listener tracks the regularities of acoustic cues and their occurence with the sound category of interest. Many acoustic cue measurements can map to the same category thus forming a distribution. 
+
+One could loosely think of "bed" and "bet" as being differentiated by only the final sound (d/t). The acoustic cues that map to the categories "d" and "t" at the end of the word has been identified to be 3 temporal measures -- the duration of the previous vowel sound ("e"), the duration of closure (to produce d or t at the end of a word the talker has to momentarily stop the air-flow through his vocal tract), and the duration of the burst of air that follows release of the closure. 
 
 <div style="padding-bottom:76.25%; position:relative; display:block; width: 100%">
-<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/plotly/3d_en.html" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/plotly/p_en.html" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
 </div>
-
 
 
 
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Production of "d"-words and "t"-ending words by native and non-native talkers of US English. Points show durational measures of vowel, closure, burst for each word. Ellipses represent the parameterised distributions of cues under Gaussian assumptions. 
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+We could in principle, map all the combinations of cue measurements that occur each time "d" is produced and all the combinations that occur each time "t" is produced and visualise the distributions that divide the two categories of sounds. We could compare data from native talkers with that of non-native talkers and see how they differ or don't differ. With these visual models we could reasonably predict that the greater the similarity the less there is for the listener to learn about the new talker since her cues would fall within an expected range.
+
+In this project we compared the production of stop consonants ("d" and "t) in word-final contexts (e.g. bat and bad) of native and non-native speakers in both English and Swedish.
 
 
-
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="padding-bottom:76.25%; position:relative; display:block; width: 100%">
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" src="/assets/plotly/p_sw.html" frameborder="0" allowfullscreen="" style="position:absolute; top:0; left:0"></iframe>
 </div>
-```
-{% endraw %}
+
+<div class="caption">
+    Same as previous plot but with Swedish word final "d" and "t". 
+</div>
+
+
+
+
+
+
+
+
